@@ -31,3 +31,4 @@ Then fill in `project-context` for your product, adjust `project` to your layout
 | `shared-validation` | Zod schemas and validation copy shared by API and web |
 | `testing` | Vitest, Testing Library, route tests, RLS tests, Playwright |
 | `utilities` | Pure helper functions |
+| `plain-talk` | How Claude explains things and asks questions in chat: answer first, plain words, short |
