@@ -1,6 +1,6 @@
-# js-skills
+# skills
 
-Claude Code skills for a TypeScript monorepo: pnpm + Turborepo, a React + Vite dashboard, a Fastify API, Prisma on Postgres with row-level security, Zod everywhere, Vitest and Playwright.
+Claude Code skills. Most are for a TypeScript monorepo: pnpm + Turborepo, a React + Vite dashboard, a Fastify API, Prisma on Postgres with row-level security, Zod everywhere, Vitest and Playwright. A few are general and work in any project.
 
 ## Use them
 
@@ -12,7 +12,9 @@ cp -r skills/* /path/to/your-project/.claude/skills/
 
 Then fill in `project-context` for your product, adjust `project` to your layout, and list the skills in your `CLAUDE.md`. The skills assume the `@repo/` package scope and the layout in `project`; rename to match yours.
 
-## Skills
+To use a general skill in every project, copy it into `~/.claude/skills/` instead.
+
+## TypeScript monorepo skills
 
 | Skill | Covers |
 |---|---|
@@ -31,4 +33,9 @@ Then fill in `project-context` for your product, adjust `project` to your layout
 | `shared-validation` | Zod schemas and validation copy shared by API and web |
 | `testing` | Vitest, Testing Library, route tests, RLS tests, Playwright |
 | `utilities` | Pure helper functions |
+
+## General skills
+
+| Skill | Covers |
+|---|---|
 | `plain-talk` | How Claude explains things and asks questions in chat: answer first, plain words, short |
