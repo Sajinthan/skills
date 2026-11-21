@@ -39,3 +39,4 @@ To use a general skill in every project, copy it into `~/.claude/skills/` instea
 | Skill | Covers |
 |---|---|
 | `plain-talk` | How Claude explains things and asks questions in chat: answer first, plain words, short |
+| `skill-checklist` | Yes/no checks for writing or reviewing any skill, built on ideas from *The Pragmatic Programmer* |

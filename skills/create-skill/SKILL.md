@@ -5,7 +5,7 @@ description: Authors a new skill for the repo in .claude/skills/ — the quality
 
 # Create Skill
 
-Skills encode **repo-specific knowledge a model doesn't already have**, so the agent gets it right first time. This skill is how you add one. See [[refine-skill]] to improve an existing one.
+Skills encode **repo-specific knowledge a model doesn't already have**, so the agent gets it right first time. This skill is how you add one. See [[refine-skill]] to improve an existing one, and [[skill-checklist]] for the general checks that apply to any skill.
 
 ## The quality gate (write this down first)
 

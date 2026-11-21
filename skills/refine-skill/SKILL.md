@@ -5,7 +5,7 @@ description: Improves an existing skill in .claude/skills/ — catches drift, ve
 
 # Refine Skill
 
-Skills rot: a refactor moves a file, an upgrade renames an API, a section collects padding. Refining keeps them **true and tight**. To write a new one, see [[create-skill]].
+Skills rot: a refactor moves a file, an upgrade renames an API, a section collects padding. Refining keeps them **true and tight**. To write a new one, see [[create-skill]]. Run the general checks in [[skill-checklist]] too.
 
 ## When to refine
 
